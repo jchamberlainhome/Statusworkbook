@@ -1,0 +1,8 @@
+I inherited this file and it is a hot mess. the code has some documentation in it, but I cannot discern the issue. 
+It currently seeems to run, i.e. no errors on running it, but no emails are generated.
+
+The purpose of the file:
+Every day I add items to the sheet in the tab labeled "Action Items" with the various fields filled in including Due date
+Once a week I am supposed to run the macro in the attached text file. It creates an email based on the "Owner" field which cross references the email address in the mailinfo tab.
+The macro creates an email for each owner, preaddressed and filled in with the subject and body
+I review and send.
